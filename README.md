@@ -1,4 +1,5 @@
 <h1 align="center" style="font-size:35px">
+    <b>Money Earning System</b>
   <b>Stock Management System</b>
 </h1>
 <p align="center">
