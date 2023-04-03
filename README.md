@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size:35px">
-    <b>Money Earning System</b>
-  <b>Stock Management System</b>
+    <b>Money Earning System </b>
+  <b>(Stock Management System)</b>
 </h1>
 <p align="center">
   This is my construct week project. made with Java, JDBC, and MySQL technology.
