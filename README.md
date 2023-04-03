@@ -18,14 +18,14 @@
 `Stock Management System` is a useful tool for individuals looking to invest in the stock market. It provides a convenient and efficient way to manage investments by allowing customers to create stock accounts, buy and sell shares, view transaction history, and manage their wallets.
 
 
-`Features of the Broker:`
+` Broker:`
 
 Register new customers by assigning them a unique username and password.
 
 Manage customer accounts by viewing all customers, deleting customers, and crediting/debiting customer wallets.
 
 
-`Features of the Customer:`
+` Customer:`
 
 Buy and sell stocks using their demat account.
 
