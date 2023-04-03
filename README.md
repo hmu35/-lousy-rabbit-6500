@@ -12,7 +12,7 @@
 
 <br/>
 
-<img   width="400" src="https://drive.google.com/file/d/1_gCUq_Vd9ylRrNF8Mbur7BhiBfTSP479/view?usp=sharing">
+<img   width="400" src="https://github.com/hmu35/-lousy-rabbit-6500/blob/main/Black%20and%20White%20Minimal%20Monogram%20Logo.png?raw=true">
 
 ## Description
 
