@@ -3,8 +3,7 @@
   <b>(Stock Management System)</b>
 </h1>
 <p align="center">
-  This is my construct week project. made with Java, JDBC, and MySQL technology.
-  
+  Tech stack:- java, jdbc, MySql
 </p>
 
 <p align="center">
