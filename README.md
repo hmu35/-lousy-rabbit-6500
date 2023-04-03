@@ -19,11 +19,10 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,powershell,git,github)]
 
 ## Features
 
-`Features of the Admin:`
+`Features of the Broker:`
 
 Register new customers by assigning them a unique username and password.
 
